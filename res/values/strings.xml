@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KopihaoDrawerJf10sm</string>
+    <string name="txt_header">Put Header Here</string>
+    <string name="txt_content">Put Content Here</string>
+    <string name="txt_lsm">Left Menu Here</string>
+    <string name="txt_rsm">Right Menu Here</string>
+
+</resources>
